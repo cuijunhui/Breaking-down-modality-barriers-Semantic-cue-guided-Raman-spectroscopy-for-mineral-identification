@@ -3,6 +3,8 @@
 # Overview
 This project introduces a Semantic-Clue Reconfiguration (SCR) framework designed for cross-modal modeling between Raman spectroscopy data and mineral structural texts. The proposed multimodal architecture integrates four core components:
 
+![模型图](https://www.baidu.com/img/bd_logo1.png) 
+
 1.**Spectral Encoder**: Extracts discriminative features from the Raman spectral data.
 
 2.**Text Encoder**: Utilizes a BERT-based model to generate semantic embeddings from textual descriptions of mineral structures.
