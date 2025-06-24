@@ -12,4 +12,11 @@ This project introduces a Semantic-Clue Reconfiguration (SCR) framework designed
 4.Fusion-based Classification Module: Combines attended features to perform accurate mineral identification.
 # Installation
 To set up the project environment:
+
 1.Clone the repository
+
+git clone https://github.com/cuijunhui/Breaking-down-modality-barriers-Semantic-cue-guided-Raman-spectroscopy-for-mineral-identification.git
+
+2.Install required Python packages:
+
+conda install -r requirements.txt
