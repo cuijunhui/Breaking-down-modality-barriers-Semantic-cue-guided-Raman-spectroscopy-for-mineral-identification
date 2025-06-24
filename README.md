@@ -19,4 +19,4 @@ To set up the project environment:
 
 2.Install required Python packages:
 
-conda install -r requirements.txt
+```conda install -r requirements.txt```
